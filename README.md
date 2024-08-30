@@ -13,7 +13,7 @@ MarkEX is an AI-driven personal finance app that helps users manage their financ
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sya0110/MarkEX.git
+   git clone https://github.com/Nisal69/MarkEx.git
    cd MarkEX
 
 ## Contact
